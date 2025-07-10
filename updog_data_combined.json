@@ -1,0 +1,380 @@
+{
+  "game_list": [
+    {
+      "Game List": "Boom Level One"
+    },
+    {
+      "Game List": "Far Out Level One"
+    },
+    {
+      "Game List": "Fireball Level One"
+    },
+    {
+      "Game List": "Four Way Play Level One"
+    },
+    {
+      "Game List": "Four Way Play Level Two"
+    },
+    {
+      "Game List": "Freestyle Level One"
+    },
+    {
+      "Game List": "Freestyle Level Two"
+    },
+    {
+      "Game List": "Frizgility Level One"
+    },
+    {
+      "Game List": "Frizgility Level Two"
+    },
+    {
+      "Game List": "FunKey Level One"
+    },
+    {
+      "Game List": "FunKey Level Two"
+    },
+    {
+      "Game List": "Greedy Level One"
+    },
+    {
+      "Game List": "Pairs Four Way Play Level One"
+    },
+    {
+      "Game List": "Pairs Throw N Go Level One"
+    },
+    {
+      "Game List": "Seven Up Level One"
+    },
+    {
+      "Game List": "Spaced Out Level One"
+    },
+    {
+      "Game List": "Spaced Out Level Two"
+    },
+    {
+      "Game List": "Throw N Go Level One"
+    },
+    {
+      "Game List": "Throw N Go Level Two"
+    },
+    {
+      "Game List": "Time Warp Level One"
+    },
+    {
+      "Game List": "Time Warp Level Two"
+    }
+  ],
+  "game_up_point_requirements": [
+    {
+      "Game List For UPs": "Boom Level One",
+      "Bronze Up": 50.0,
+      "Silver Up": 100.0,
+      "Gold Up": 250.0,
+      "Platinum Up": 500.0,
+      "Unobtanium Up": 1000.0
+    },
+    {
+      "Game List For UPs": "Far Out Level One",
+      "Bronze Up": 300.0,
+      "Silver Up": 750.0,
+      "Gold Up": 1500.0,
+      "Platinum Up": 2500.0,
+      "Unobtanium Up": 5000.0
+    },
+    {
+      "Game List For UPs": "Fireball Level One",
+      "Bronze Up": "",
+      "Silver Up": "",
+      "Gold Up": "",
+      "Platinum Up": "",
+      "Unobtanium Up": ""
+    },
+    {
+      "Game List For UPs": "Four Way Play Level One",
+      "Bronze Up": 50.0,
+      "Silver Up": 100.0,
+      "Gold Up": 200.0,
+      "Platinum Up": 300.0,
+      "Unobtanium Up": 400.0
+    },
+    {
+      "Game List For UPs": "Four Way Play Level Two",
+      "Bronze Up": 100.0,
+      "Silver Up": 200.0,
+      "Gold Up": 300.0,
+      "Platinum Up": 400.0,
+      "Unobtanium Up": 500.0
+    },
+    {
+      "Game List For UPs": "Freestyle Level One",
+      "Bronze Up": "",
+      "Silver Up": "",
+      "Gold Up": "",
+      "Platinum Up": "",
+      "Unobtanium Up": ""
+    },
+    {
+      "Game List For UPs": "Freestyle Level Two",
+      "Bronze Up": 500.0,
+      "Silver Up": 1000.0,
+      "Gold Up": 1500.0,
+      "Platinum Up": 2000.0,
+      "Unobtanium Up": 2500.0
+    },
+    {
+      "Game List For UPs": "Frizgility Level One",
+      "Bronze Up": 200.0,
+      "Silver Up": 400.0,
+      "Gold Up": 600.0,
+      "Platinum Up": 1000.0,
+      "Unobtanium Up": 2000.0
+    },
+    {
+      "Game List For UPs": "Frizgility Level Two",
+      "Bronze Up": "",
+      "Silver Up": "",
+      "Gold Up": "",
+      "Platinum Up": "",
+      "Unobtanium Up": ""
+    },
+    {
+      "Game List For UPs": "FunKey Level One",
+      "Bronze Up": 50.0,
+      "Silver Up": 100.0,
+      "Gold Up": 200.0,
+      "Platinum Up": 350.0,
+      "Unobtanium Up": 500.0
+    },
+    {
+      "Game List For UPs": "FunKey Level Two",
+      "Bronze Up": "",
+      "Silver Up": "",
+      "Gold Up": "",
+      "Platinum Up": "",
+      "Unobtanium Up": ""
+    },
+    {
+      "Game List For UPs": "Greedy Level One",
+      "Bronze Up": 100.0,
+      "Silver Up": 200.0,
+      "Gold Up": 300.0,
+      "Platinum Up": 500.0,
+      "Unobtanium Up": 1000.0
+    },
+    {
+      "Game List For UPs": "Pairs Four Way Play Level One",
+      "Bronze Up": 50.0,
+      "Silver Up": 100.0,
+      "Gold Up": 200.0,
+      "Platinum Up": 300.0,
+      "Unobtanium Up": 400.0
+    },
+    {
+      "Game List For UPs": "Pairs Throw N Go Level One",
+      "Bronze Up": 100.0,
+      "Silver Up": 200.0,
+      "Gold Up": 300.0,
+      "Platinum Up": 500.0,
+      "Unobtanium Up": 1000.0
+    },
+    {
+      "Game List For UPs": "Seven Up Level One",
+      "Bronze Up": 100.0,
+      "Silver Up": 250.0,
+      "Gold Up": 450.0,
+      "Platinum Up": 800.0,
+      "Unobtanium Up": 1200.0
+    },
+    {
+      "Game List For UPs": "Spaced Out Level One",
+      "Bronze Up": 200.0,
+      "Silver Up": 400.0,
+      "Gold Up": 600.0,
+      "Platinum Up": 1000.0,
+      "Unobtanium Up": 2000.0
+    },
+    {
+      "Game List For UPs": "Spaced Out Level Two",
+      "Bronze Up": "",
+      "Silver Up": "",
+      "Gold Up": "",
+      "Platinum Up": "",
+      "Unobtanium Up": ""
+    },
+    {
+      "Game List For UPs": "Throw N Go Level One",
+      "Bronze Up": 100.0,
+      "Silver Up": 200.0,
+      "Gold Up": 300.0,
+      "Platinum Up": 500.0,
+      "Unobtanium Up": 1000.0
+    },
+    {
+      "Game List For UPs": "Throw N Go Level Two",
+      "Bronze Up": "",
+      "Silver Up": "",
+      "Gold Up": "",
+      "Platinum Up": "",
+      "Unobtanium Up": ""
+    },
+    {
+      "Game List For UPs": "Time Warp Level One",
+      "Bronze Up": 150.0,
+      "Silver Up": 300.0,
+      "Gold Up": 500.0,
+      "Platinum Up": 750.0,
+      "Unobtanium Up": 1200.0
+    },
+    {
+      "Game List For UPs": "Time Warp Level Two",
+      "Bronze Up": 200.0,
+      "Silver Up": 350.0,
+      "Gold Up": 550.0,
+      "Platinum Up": 800.0,
+      "Unobtanium Up": 1250.0
+    }
+  ],
+  "updif_games_and_qualification_p": [
+    {
+      "UPDIF Game List": "Boom Level One",
+      "UPDIF Qual Points": 60,
+      "UPDIF Qual Points Youth": 30.0
+    },
+    {
+      "UPDIF Game List": "Far Out Level One",
+      "UPDIF Qual Points": 240,
+      "UPDIF Qual Points Youth": 120.0
+    },
+    {
+      "UPDIF Game List": "Fireball Level One",
+      "UPDIF Qual Points": 80,
+      "UPDIF Qual Points Youth": 40.0
+    },
+    {
+      "UPDIF Game List": "Four Way Play Level One",
+      "UPDIF Qual Points": 85,
+      "UPDIF Qual Points Youth": 42.5
+    },
+    {
+      "UPDIF Game List": "Four Way Play Level Two",
+      "UPDIF Qual Points": 100,
+      "UPDIF Qual Points Youth": 50.0
+    },
+    {
+      "UPDIF Game List": "Freestyle Level One",
+      "UPDIF Qual Points": 250,
+      "UPDIF Qual Points Youth": 125.0
+    },
+    {
+      "UPDIF Game List": "Freestyle Level Two",
+      "UPDIF Qual Points": 250,
+      "UPDIF Qual Points Youth": 125.0
+    },
+    {
+      "UPDIF Game List": "Frizgility Level One",
+      "UPDIF Qual Points": 325,
+      "UPDIF Qual Points Youth": 162.5
+    },
+    {
+      "UPDIF Game List": "Frizgility Level Two",
+      "UPDIF Qual Points": 500,
+      "UPDIF Qual Points Youth": 250.0
+    },
+    {
+      "UPDIF Game List": "FunKey Level One",
+      "UPDIF Qual Points": 95,
+      "UPDIF Qual Points Youth": 47.5
+    },
+    {
+      "UPDIF Game List": "FunKey Level Two",
+      "UPDIF Qual Points": 120,
+      "UPDIF Qual Points Youth": 60.0
+    },
+    {
+      "UPDIF Game List": "Greedy Level One",
+      "UPDIF Qual Points": 90,
+      "UPDIF Qual Points Youth": 45.0
+    },
+    {
+      "UPDIF Game List": "Seven Up Level One",
+      "UPDIF Qual Points": 140,
+      "UPDIF Qual Points Youth": 70.0
+    },
+    {
+      "UPDIF Game List": "Spaced Out Level One",
+      "UPDIF Qual Points": 175,
+      "UPDIF Qual Points Youth": 87.5
+    },
+    {
+      "UPDIF Game List": "Spaced Out Level Two",
+      "UPDIF Qual Points": 265,
+      "UPDIF Qual Points Youth": 132.5
+    },
+    {
+      "UPDIF Game List": "Throw N Go Level One",
+      "UPDIF Qual Points": 120,
+      "UPDIF Qual Points Youth": 60.0
+    },
+    {
+      "UPDIF Game List": "Throw N Go Level Two",
+      "UPDIF Qual Points": 140,
+      "UPDIF Qual Points Youth": 70.0
+    },
+    {
+      "UPDIF Game List": "Time Warp Level One",
+      "UPDIF Qual Points": 130,
+      "UPDIF Qual Points Youth": 65.0
+    },
+    {
+      "UPDIF Game List": "Time Warp Level Two",
+      "UPDIF Qual Points": 110,
+      "UPDIF Qual Points Youth": 55.0
+    }
+  ],
+  "eevents_to_exclude": [
+    {
+      "Event to Exclude": "UPDIF 2016"
+    },
+    {
+      "Event to Exclude": "UPDIF 2017"
+    },
+    {
+      "Event to Exclude": "UPDIF 2018"
+    },
+    {
+      "Event to Exclude": "UPDIF 2019"
+    },
+    {
+      "Event to Exclude": "UPDIF 2020"
+    },
+    {
+      "Event to Exclude": "UPDIF 2021"
+    },
+    {
+      "Event to Exclude": "UPDIF 2022"
+    },
+    {
+      "Event to Exclude": "UPDIF 2023"
+    },
+    {
+      "Event to Exclude": "UPDIF 2024"
+    },
+    {
+      "Event to Exclude": "UPDIF 2025"
+    }
+  ],
+  "updif_information": [
+    {
+      "UPDIF Year": 2026,
+      "UPDIF Start": "2025-01-01T00:00:00",
+      "UPDIF End": "2025-12-31T00:00:00"
+    }
+  ],
+  "seasonal_information": [
+    {
+      "Season Start": "2024-12-31T00:00:00",
+      "Season End": "2026-01-01T00:00:00",
+      "Season Name": "2025 Season"
+    }
+  ]
+}
