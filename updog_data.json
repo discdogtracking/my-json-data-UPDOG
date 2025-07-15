@@ -1,0 +1,380 @@
+{
+  "gameList": [
+    {
+      "name": "Boom Level One"
+    },
+    {
+      "name": "Far Out Level One"
+    },
+    {
+      "name": "Fireball Level One"
+    },
+    {
+      "name": "Four Way Play Level One"
+    },
+    {
+      "name": "Four Way Play Level Two"
+    },
+    {
+      "name": "Freestyle Level One"
+    },
+    {
+      "name": "Freestyle Level Two"
+    },
+    {
+      "name": "Frizgility Level One"
+    },
+    {
+      "name": "Frizgility Level Two"
+    },
+    {
+      "name": "FunKey Level One"
+    },
+    {
+      "name": "FunKey Level Two"
+    },
+    {
+      "name": "Greedy Level One"
+    },
+    {
+      "name": "Pairs Four Way Play Level One"
+    },
+    {
+      "name": "Pairs Throw N Go Level One"
+    },
+    {
+      "name": "Seven Up Level One"
+    },
+    {
+      "name": "Spaced Out Level One"
+    },
+    {
+      "name": "Spaced Out Level Two"
+    },
+    {
+      "name": "Throw N Go Level One"
+    },
+    {
+      "name": "Throw N Go Level Two"
+    },
+    {
+      "name": "Time Warp Level One"
+    },
+    {
+      "name": "Time Warp Level Two"
+    }
+  ],
+  "gameUpRequirements": [
+    {
+      "game": "Boom Level One",
+      "bronze": 50.0,
+      "silver": 100.0,
+      "gold": 250.0,
+      "platinum": 500.0,
+      "unobtanium": 1000.0
+    },
+    {
+      "game": "Far Out Level One",
+      "bronze": 300.0,
+      "silver": 750.0,
+      "gold": 1500.0,
+      "platinum": 2500.0,
+      "unobtanium": 5000.0
+    },
+    {
+      "game": "Fireball Level One",
+      "bronze": NaN,
+      "silver": NaN,
+      "gold": NaN,
+      "platinum": NaN,
+      "unobtanium": NaN
+    },
+    {
+      "game": "Four Way Play Level One",
+      "bronze": 50.0,
+      "silver": 100.0,
+      "gold": 200.0,
+      "platinum": 300.0,
+      "unobtanium": 400.0
+    },
+    {
+      "game": "Four Way Play Level Two",
+      "bronze": 100.0,
+      "silver": 200.0,
+      "gold": 300.0,
+      "platinum": 400.0,
+      "unobtanium": 500.0
+    },
+    {
+      "game": "Freestyle Level One",
+      "bronze": NaN,
+      "silver": NaN,
+      "gold": NaN,
+      "platinum": NaN,
+      "unobtanium": NaN
+    },
+    {
+      "game": "Freestyle Level Two",
+      "bronze": 500.0,
+      "silver": 1000.0,
+      "gold": 1500.0,
+      "platinum": 2000.0,
+      "unobtanium": 2500.0
+    },
+    {
+      "game": "Frizgility Level One",
+      "bronze": 200.0,
+      "silver": 400.0,
+      "gold": 600.0,
+      "platinum": 1000.0,
+      "unobtanium": 2000.0
+    },
+    {
+      "game": "Frizgility Level Two",
+      "bronze": NaN,
+      "silver": NaN,
+      "gold": NaN,
+      "platinum": NaN,
+      "unobtanium": NaN
+    },
+    {
+      "game": "FunKey Level One",
+      "bronze": 50.0,
+      "silver": 100.0,
+      "gold": 200.0,
+      "platinum": 350.0,
+      "unobtanium": 500.0
+    },
+    {
+      "game": "FunKey Level Two",
+      "bronze": NaN,
+      "silver": NaN,
+      "gold": NaN,
+      "platinum": NaN,
+      "unobtanium": NaN
+    },
+    {
+      "game": "Greedy Level One",
+      "bronze": 100.0,
+      "silver": 200.0,
+      "gold": 300.0,
+      "platinum": 500.0,
+      "unobtanium": 1000.0
+    },
+    {
+      "game": "Pairs Four Way Play Level One",
+      "bronze": 50.0,
+      "silver": 100.0,
+      "gold": 200.0,
+      "platinum": 300.0,
+      "unobtanium": 400.0
+    },
+    {
+      "game": "Pairs Throw N Go Level One",
+      "bronze": 100.0,
+      "silver": 200.0,
+      "gold": 300.0,
+      "platinum": 500.0,
+      "unobtanium": 1000.0
+    },
+    {
+      "game": "Seven Up Level One",
+      "bronze": 100.0,
+      "silver": 250.0,
+      "gold": 450.0,
+      "platinum": 800.0,
+      "unobtanium": 1200.0
+    },
+    {
+      "game": "Spaced Out Level One",
+      "bronze": 200.0,
+      "silver": 400.0,
+      "gold": 600.0,
+      "platinum": 1000.0,
+      "unobtanium": 2000.0
+    },
+    {
+      "game": "Spaced Out Level Two",
+      "bronze": NaN,
+      "silver": NaN,
+      "gold": NaN,
+      "platinum": NaN,
+      "unobtanium": NaN
+    },
+    {
+      "game": "Throw N Go Level One",
+      "bronze": 100.0,
+      "silver": 200.0,
+      "gold": 300.0,
+      "platinum": 500.0,
+      "unobtanium": 1000.0
+    },
+    {
+      "game": "Throw N Go Level Two",
+      "bronze": NaN,
+      "silver": NaN,
+      "gold": NaN,
+      "platinum": NaN,
+      "unobtanium": NaN
+    },
+    {
+      "game": "Time Warp Level One",
+      "bronze": 150.0,
+      "silver": 300.0,
+      "gold": 500.0,
+      "platinum": 750.0,
+      "unobtanium": 1200.0
+    },
+    {
+      "game": "Time Warp Level Two",
+      "bronze": 200.0,
+      "silver": 350.0,
+      "gold": 550.0,
+      "platinum": 800.0,
+      "unobtanium": 1250.0
+    }
+  ],
+  "updifGames": [
+    {
+      "game": "Boom Level One",
+      "qualPoints": 60,
+      "qualPointsYouth": 30.0
+    },
+    {
+      "game": "Far Out Level One",
+      "qualPoints": 240,
+      "qualPointsYouth": 120.0
+    },
+    {
+      "game": "Fireball Level One",
+      "qualPoints": 80,
+      "qualPointsYouth": 40.0
+    },
+    {
+      "game": "Four Way Play Level One",
+      "qualPoints": 85,
+      "qualPointsYouth": 42.5
+    },
+    {
+      "game": "Four Way Play Level Two",
+      "qualPoints": 100,
+      "qualPointsYouth": 50.0
+    },
+    {
+      "game": "Freestyle Level One",
+      "qualPoints": 250,
+      "qualPointsYouth": 125.0
+    },
+    {
+      "game": "Freestyle Level Two",
+      "qualPoints": 250,
+      "qualPointsYouth": 125.0
+    },
+    {
+      "game": "Frizgility Level One",
+      "qualPoints": 325,
+      "qualPointsYouth": 162.5
+    },
+    {
+      "game": "Frizgility Level Two",
+      "qualPoints": 500,
+      "qualPointsYouth": 250.0
+    },
+    {
+      "game": "FunKey Level One",
+      "qualPoints": 95,
+      "qualPointsYouth": 47.5
+    },
+    {
+      "game": "FunKey Level Two",
+      "qualPoints": 120,
+      "qualPointsYouth": 60.0
+    },
+    {
+      "game": "Greedy Level One",
+      "qualPoints": 90,
+      "qualPointsYouth": 45.0
+    },
+    {
+      "game": "Seven Up Level One",
+      "qualPoints": 140,
+      "qualPointsYouth": 70.0
+    },
+    {
+      "game": "Spaced Out Level One",
+      "qualPoints": 175,
+      "qualPointsYouth": 87.5
+    },
+    {
+      "game": "Spaced Out Level Two",
+      "qualPoints": 265,
+      "qualPointsYouth": 132.5
+    },
+    {
+      "game": "Throw N Go Level One",
+      "qualPoints": 120,
+      "qualPointsYouth": 60.0
+    },
+    {
+      "game": "Throw N Go Level Two",
+      "qualPoints": 140,
+      "qualPointsYouth": 70.0
+    },
+    {
+      "game": "Time Warp Level One",
+      "qualPoints": 130,
+      "qualPointsYouth": 65.0
+    },
+    {
+      "game": "Time Warp Level Two",
+      "qualPoints": 110,
+      "qualPointsYouth": 55.0
+    }
+  ],
+  "excludedEvents": [
+    {
+      "event": "UPDIF 2016"
+    },
+    {
+      "event": "UPDIF 2017"
+    },
+    {
+      "event": "UPDIF 2018"
+    },
+    {
+      "event": "UPDIF 2019"
+    },
+    {
+      "event": "UPDIF 2020"
+    },
+    {
+      "event": "UPDIF 2021"
+    },
+    {
+      "event": "UPDIF 2022"
+    },
+    {
+      "event": "UPDIF 2023"
+    },
+    {
+      "event": "UPDIF 2024"
+    },
+    {
+      "event": "UPDIF 2025"
+    }
+  ],
+  "updifInfo": [
+    {
+      "year": 2026,
+      "start": "2025-01-01",
+      "end": "2025-12-31"
+    }
+  ],
+  "seasonalInfo": [
+    {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "name": "2025 Season"
+    }
+  ]
+}
