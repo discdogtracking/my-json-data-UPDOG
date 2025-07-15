@@ -234,103 +234,108 @@
       "unobtanium": 1250.0
     }
   ],
-  "updifGames": [
-    {
-      "game": "Boom Level One",
+  "updifGames": {
+  "Boom": {
+    "Level One": {
       "qualPoints": 60,
       "qualPointsYouth": 30.0
-    },
-    {
-      "game": "Far Out Level One",
+    }
+  },
+  "Far Out": {
+    "Level One": {
       "qualPoints": 240,
       "qualPointsYouth": 120.0
-    },
-    {
-      "game": "Fireball Level One",
+    }
+  },
+  "Fireball": {
+    "Level One": {
       "qualPoints": 80,
       "qualPointsYouth": 40.0
-    },
-    {
-      "game": "Four Way Play Level One",
+    }
+  },
+  "Four Way Play": {
+    "Level One": {
       "qualPoints": 85,
       "qualPointsYouth": 42.5
     },
-    {
-      "game": "Four Way Play Level Two",
+    "Level Two": {
       "qualPoints": 100,
       "qualPointsYouth": 50.0
-    },
-    {
-      "game": "Freestyle Level One",
+    }
+  },
+  "Freestyle": {
+    "Level One": {
       "qualPoints": 250,
       "qualPointsYouth": 125.0
     },
-    {
-      "game": "Freestyle Level Two",
+    "Level Two": {
       "qualPoints": 250,
       "qualPointsYouth": 125.0
-    },
-    {
-      "game": "Frizgility Level One",
+    }
+  },
+  "Frizgility": {
+    "Level One": {
       "qualPoints": 325,
       "qualPointsYouth": 162.5
     },
-    {
-      "game": "Frizgility Level Two",
+    "Level Two": {
       "qualPoints": 500,
       "qualPointsYouth": 250.0
-    },
-    {
-      "game": "FunKey Level One",
+    }
+  },
+  "FunKey": {
+    "Level One": {
       "qualPoints": 95,
       "qualPointsYouth": 47.5
     },
-    {
-      "game": "FunKey Level Two",
+    "Level Two": {
       "qualPoints": 120,
       "qualPointsYouth": 60.0
-    },
-    {
-      "game": "Greedy Level One",
+    }
+  },
+  "Greedy": {
+    "Level One": {
       "qualPoints": 90,
       "qualPointsYouth": 45.0
-    },
-    {
-      "game": "Seven Up Level One",
+    }
+  },
+  "Seven Up": {
+    "Level One": {
       "qualPoints": 140,
       "qualPointsYouth": 70.0
-    },
-    {
-      "game": "Spaced Out Level One",
+    }
+  },
+  "Spaced Out": {
+    "Level One": {
       "qualPoints": 175,
       "qualPointsYouth": 87.5
     },
-    {
-      "game": "Spaced Out Level Two",
+    "Level Two": {
       "qualPoints": 265,
       "qualPointsYouth": 132.5
-    },
-    {
-      "game": "Throw N Go Level One",
+    }
+  },
+  "Throw N Go": {
+    "Level One": {
       "qualPoints": 120,
       "qualPointsYouth": 60.0
     },
-    {
-      "game": "Throw N Go Level Two",
+    "Level Two": {
       "qualPoints": 140,
       "qualPointsYouth": 70.0
-    },
-    {
-      "game": "Time Warp Level One",
+    }
+  },
+  "Time Warp": {
+    "Level One": {
       "qualPoints": 130,
       "qualPointsYouth": 65.0
     },
-    {
-      "game": "Time Warp Level Two",
+    "Level Two": {
       "qualPoints": 110,
       "qualPointsYouth": 55.0
     }
-  ],
+  }
+}
   "excludedEvents": [
     {
       "event": "UPDIF 2016"
