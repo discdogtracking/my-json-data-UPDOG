@@ -1,68 +1,26 @@
 {
   "gameList": [
-    {
-      "name": "Boom Level One"
-    },
-    {
-      "name": "Far Out Level One"
-    },
-    {
-      "name": "Fireball Level One"
-    },
-    {
-      "name": "Four Way Play Level One"
-    },
-    {
-      "name": "Four Way Play Level Two"
-    },
-    {
-      "name": "Freestyle Level One"
-    },
-    {
-      "name": "Freestyle Level Two"
-    },
-    {
-      "name": "Frizgility Level One"
-    },
-    {
-      "name": "Frizgility Level Two"
-    },
-    {
-      "name": "FunKey Level One"
-    },
-    {
-      "name": "FunKey Level Two"
-    },
-    {
-      "name": "Greedy Level One"
-    },
-    {
-      "name": "Pairs Four Way Play Level One"
-    },
-    {
-      "name": "Pairs Throw N Go Level One"
-    },
-    {
-      "name": "Seven Up Level One"
-    },
-    {
-      "name": "Spaced Out Level One"
-    },
-    {
-      "name": "Spaced Out Level Two"
-    },
-    {
-      "name": "Throw N Go Level One"
-    },
-    {
-      "name": "Throw N Go Level Two"
-    },
-    {
-      "name": "Time Warp Level One"
-    },
-    {
-      "name": "Time Warp Level Two"
-    }
+    {"name": "Boom Level One"},
+    {"name": "Far Out Level One"},
+    {"name": "Fireball Level One"},
+    {"name": "Four Way Play Level One"},
+    {"name": "Four Way Play Level Two"},
+    {"name": "Freestyle Level One"},
+    {"name": "Freestyle Level Two"},
+    {"name": "Frizgility Level One"},
+    {"name": "Frizgility Level Two"},
+    {"name": "FunKey Level One"},
+    {"name": "FunKey Level Two"},
+    {"name": "Greedy Level One"},
+    {"name": "Pairs Four Way Play Level One"},
+    {"name": "Pairs Throw N Go Level One"},
+    {"name": "Seven Up Level One"},
+    {"name": "Spaced Out Level One"},
+    {"name": "Spaced Out Level Two"},
+    {"name": "Throw N Go Level One"},
+    {"name": "Throw N Go Level Two"},
+    {"name": "Time Warp Level One"},
+    {"name": "Time Warp Level Two"}
   ],
   "gameUpRequirements": [
     {
@@ -235,148 +193,127 @@
     }
   ],
   "updifGames": {
-  "Boom": {
-    "Level One": {
-      "qualPoints": 60,
-      "qualPointsYouth": 30.0
-    }
-  },
-  "Far Out": {
-    "Level One": {
-      "qualPoints": 240,
-      "qualPointsYouth": 120.0
-    }
-  },
-  "Fireball": {
-    "Level One": {
-      "qualPoints": 80,
-      "qualPointsYouth": 40.0
-    }
-  },
-  "Four Way Play": {
-    "Level One": {
-      "qualPoints": 85,
-      "qualPointsYouth": 42.5
+    "Boom": {
+      "Level One": {
+        "qualPoints": 60,
+        "qualPointsYouth": 30.0
+      }
     },
-    "Level Two": {
-      "qualPoints": 100,
-      "qualPointsYouth": 50.0
-    }
-  },
-  "Freestyle": {
-    "Level One": {
-      "qualPoints": 250,
-      "qualPointsYouth": 125.0
+    "Far Out": {
+      "Level One": {
+        "qualPoints": 240,
+        "qualPointsYouth": 120.0
+      }
     },
-    "Level Two": {
-      "qualPoints": 250,
-      "qualPointsYouth": 125.0
-    }
-  },
-  "Frizgility": {
-    "Level One": {
-      "qualPoints": 325,
-      "qualPointsYouth": 162.5
+    "Fireball": {
+      "Level One": {
+        "qualPoints": 80,
+        "qualPointsYouth": 40.0
+      }
     },
-    "Level Two": {
-      "qualPoints": 500,
-      "qualPointsYouth": 250.0
-    }
-  },
-  "FunKey": {
-    "Level One": {
-      "qualPoints": 95,
-      "qualPointsYouth": 47.5
+    "Four Way Play": {
+      "Level One": {
+        "qualPoints": 85,
+        "qualPointsYouth": 42.5
+      },
+      "Level Two": {
+        "qualPoints": 100,
+        "qualPointsYouth": 50.0
+      }
     },
-    "Level Two": {
-      "qualPoints": 120,
-      "qualPointsYouth": 60.0
-    }
-  },
-  "Greedy": {
-    "Level One": {
-      "qualPoints": 90,
-      "qualPointsYouth": 45.0
-    }
-  },
-  "Seven Up": {
-    "Level One": {
-      "qualPoints": 140,
-      "qualPointsYouth": 70.0
-    }
-  },
-  "Spaced Out": {
-    "Level One": {
-      "qualPoints": 175,
-      "qualPointsYouth": 87.5
+    "Freestyle": {
+      "Level One": {
+        "qualPoints": 250,
+        "qualPointsYouth": 125.0
+      },
+      "Level Two": {
+        "qualPoints": 250,
+        "qualPointsYouth": 125.0
+      }
     },
-    "Level Two": {
-      "qualPoints": 265,
-      "qualPointsYouth": 132.5
+    "Frizgility": {
+      "Level One": {
+        "qualPoints": 325,
+        "qualPointsYouth": 162.5
+      },
+      "Level Two": {
+        "qualPoints": 500,
+        "qualPointsYouth": 250.0
+      }
+    },
+    "FunKey": {
+      "Level One": {
+        "qualPoints": 95,
+        "qualPointsYouth": 47.5
+      },
+      "Level Two": {
+        "qualPoints": 120,
+        "qualPointsYouth": 60.0
+      }
+    },
+    "Greedy": {
+      "Level One": {
+        "qualPoints": 90,
+        "qualPointsYouth": 45.0
+      }
+    },
+    "Seven Up": {
+      "Level One": {
+        "qualPoints": 140,
+        "qualPointsYouth": 70.0
+      }
+    },
+    "Spaced Out": {
+      "Level One": {
+        "qualPoints": 175,
+        "qualPointsYouth": 87.5
+      },
+      "Level Two": {
+        "qualPoints": 265,
+        "qualPointsYouth": 132.5
+      }
+    },
+    "Throw N Go": {
+      "Level One": {
+        "qualPoints": 120,
+        "qualPointsYouth": 60.0
+      },
+      "Level Two": {
+        "qualPoints": 140,
+        "qualPointsYouth": 70.0
+      }
+    },
+    "Time Warp": {
+      "Level One": {
+        "qualPoints": 130,
+        "qualPointsYouth": 65.0
+      },
+      "Level Two": {
+        "qualPoints": 110,
+        "qualPointsYouth": 55.0
+      }
     }
   },
-  "Throw N Go": {
-    "Level One": {
-      "qualPoints": 120,
-      "qualPointsYouth": 60.0
-    },
-    "Level Two": {
-      "qualPoints": 140,
-      "qualPointsYouth": 70.0
-    }
+  "excludedEvents": [
+    {"event": "UPDIF 2016"},
+    {"event": "UPDIF 2017"},
+    {"event": "UPDIF 2018"},
+    {"event": "UPDIF 2019"},
+    {"event": "UPDIF 2020"},
+    {"event": "UPDIF 2021"},
+    {"event": "UPDIF 2022"},
+    {"event": "UPDIF 2023"},
+    {"event": "UPDIF 2024"},
+    {"event": "UPDIF 2025"}
+  ],
+  "updifInfo": {
+    "year": 2026,
+    "start": "2025-01-01",
+    "end": "2025-12-31"
   },
-  "Time Warp": {
-    "Level One": {
-      "qualPoints": 130,
-      "qualPointsYouth": 65.0
-    },
-    "Level Two": {
-      "qualPoints": 110,
-      "qualPointsYouth": 55.0
-    }
+  "seasonalInfo": {
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "name": "2025 Season"
   }
-}
-  "excludedEvents": 
-    {
-      "event": "UPDIF 2016"
-    },
-    {
-      "event": "UPDIF 2017"
-    },
-    {
-      "event": "UPDIF 2018"
-    },
-    {
-      "event": "UPDIF 2019"
-    },
-    {
-      "event": "UPDIF 2020"
-    },
-    {
-      "event": "UPDIF 2021"
-    },
-    {
-      "event": "UPDIF 2022"
-    },
-    {
-      "event": "UPDIF 2023"
-    },
-    {
-      "event": "UPDIF 2024"
-    },
-    {
-      "event": "UPDIF 2025"
-    },
-  "updifInfo": 
-    {
-      "year": 2026,
-      "start": "2025-01-01",
-      "end": "2025-12-31"
-    },
-  "seasonalInfo": 
-    {
-      "start": "2025-01-01",
-      "end": "2025-12-31",
-      "name": "2025 Season"
-    }
 }
