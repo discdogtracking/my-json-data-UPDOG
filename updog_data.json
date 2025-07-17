@@ -336,7 +336,7 @@
     }
   }
 }
-  "excludedEvents": [
+  "excludedEvents": 
     {
       "event": "UPDIF 2016"
     },
@@ -366,20 +366,17 @@
     },
     {
       "event": "UPDIF 2025"
-    }
-  ],
-  "updifInfo": [
+    },
+  "updifInfo": 
     {
       "year": 2026,
       "start": "2025-01-01",
       "end": "2025-12-31"
-    }
-  ],
-  "seasonalInfo": [
+    },
+  "seasonalInfo": 
     {
       "start": "2025-01-01",
       "end": "2025-12-31",
       "name": "2025 Season"
     }
-  ]
 }
