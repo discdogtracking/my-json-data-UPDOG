@@ -83,11 +83,11 @@
     },
     {
       "game": "Fireball Level One",
-      "bronze": NaN,
-      "silver": NaN,
-      "gold": NaN,
-      "platinum": NaN,
-      "unobtanium": NaN
+      "bronze": null,
+      "silver": null,
+      "gold": null,
+      "platinum": null,
+      "unobtanium": null
     },
     {
       "game": "Four Way Play Level One",
@@ -107,11 +107,11 @@
     },
     {
       "game": "Freestyle Level One",
-      "bronze": NaN,
-      "silver": NaN,
-      "gold": NaN,
-      "platinum": NaN,
-      "unobtanium": NaN
+      "bronze": null,
+      "silver": null,
+      "gold": null,
+      "platinum": null,
+      "unobtanium": null
     },
     {
       "game": "Freestyle Level Two",
@@ -131,11 +131,11 @@
     },
     {
       "game": "Frizgility Level Two",
-      "bronze": NaN,
-      "silver": NaN,
-      "gold": NaN,
-      "platinum": NaN,
-      "unobtanium": NaN
+      "bronze": null,
+      "silver": null,
+      "gold": null,
+      "platinum": null,
+      "unobtanium": null
     },
     {
       "game": "FunKey Level One",
@@ -147,11 +147,11 @@
     },
     {
       "game": "FunKey Level Two",
-      "bronze": NaN,
-      "silver": NaN,
-      "gold": NaN,
-      "platinum": NaN,
-      "unobtanium": NaN
+      "bronze": null,
+      "silver": null,
+      "gold": null,
+      "platinum": null,
+      "unobtanium": null
     },
     {
       "game": "Greedy Level One",
@@ -195,11 +195,11 @@
     },
     {
       "game": "Spaced Out Level Two",
-      "bronze": NaN,
-      "silver": NaN,
-      "gold": NaN,
-      "platinum": NaN,
-      "unobtanium": NaN
+      "bronze": null,
+      "silver": null,
+      "gold": null,
+      "platinum": null,
+      "unobtanium": null
     },
     {
       "game": "Throw N Go Level One",
@@ -211,11 +211,11 @@
     },
     {
       "game": "Throw N Go Level Two",
-      "bronze": NaN,
-      "silver": NaN,
-      "gold": NaN,
-      "platinum": NaN,
-      "unobtanium": NaN
+      "bronze": null,
+      "silver": null,
+      "gold": null,
+      "platinum": null,
+      "unobtanium": null
     },
     {
       "game": "Time Warp Level One",
