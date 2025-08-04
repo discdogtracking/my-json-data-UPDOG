@@ -304,8 +304,7 @@
   { "event": "UPDIF 2022" },
   { "event": "UPDIF 2023" },
   { "event": "UPDIF 2024" },
-  { "event": "UPDIF 2025" },
-  { "event": "Bite Club" }
+  { "event": "UPDIF 2025" }
 ],
   "updifInfo": {
   "year": 2026,
@@ -318,4 +317,5 @@
   "name": "2025 Season"
 }
 }
+
 
