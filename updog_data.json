@@ -319,16 +319,29 @@
   "liveFactSheet": {
   "name": "Live Fact Sheet: UPDIF 2026",
   "url": "https://docs.google.com/document/d/1MIxEkQDoEC2ySq0I9S1UZFowdm80wFJmHQftUeeVY8I/edit?fbclid=IwY2xjawL9wrhleHRuA2FlbQIxMQABHl0klC5m3gTxHaeMStHc30IFqM4LpUzAJFR2oazWhE6W8KYKEfErt1kNXenW_aem_BaeGG18vXVh9E_fjnAkBUw&tab=t.0"
+},
+
+  "updifYears": [
+    {
+      "year": 2026,
+      "official": true,
+      "visible": true,
+      "displayName": "UPDIF 2026",
+      "seasonalInfo": {
+        "start": "2025-01-01",
+        "end": "2025-12-31"
+      }
+    },
+    {
+      "year": 2027,
+      "official": false,
+      "visible": true,
+      "displayName": "UPDIF 2027",
+      "note": "Points needed TBD",
+      "seasonalInfo": {
+        "start": "2026-01-01",
+        "end": "2026-12-31"
+      }
+    }
+  ]
 }
-
-}
-
-
-
-
-
-
-
-
-
-
