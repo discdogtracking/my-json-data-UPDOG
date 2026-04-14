@@ -308,14 +308,14 @@
   { "event": "UPDIF 2026" }  
 ],
   "updifInfo": {
-  "year": 2026,
-  "start": "2025-01-01",
-  "end": "2025-12-31"
+  "year": 2027,
+  "start": "2026-01-01",
+  "end": "2026-12-31"
 },
 "seasonalInfo": {
-  "start": "2025-01-01",
-  "end": "2025-12-31",
-  "name": "2025 Season"
+  "start": "2026-01-01",
+  "end": "2026-12-31",
+  "name": "2026 Season"
 },
   "liveFactSheet": {
   "name": "Live Fact Sheet: UPDIF 2026",
