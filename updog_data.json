@@ -326,7 +326,7 @@
     {
       "year": 2026,
       "official": true,
-      "visible": true,
+      "visible": false,
       "displayName": "UPDIF 2026",
       "seasonalInfo": {
         "start": "2025-01-01",
