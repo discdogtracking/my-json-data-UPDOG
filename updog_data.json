@@ -41,11 +41,11 @@
     },
     {
       "game": "Fireball Level One",
-      "bronze": null,
-      "silver": null,
-      "gold": null,
-      "platinum": null,
-      "unobtanium": null
+      "bronze": 100,
+      "silver": 200,
+      "gold": 400,
+      "platinum": 750,
+      "unobtanium": 1000
     },
     {
       "game": "Four Way Play Level One",
