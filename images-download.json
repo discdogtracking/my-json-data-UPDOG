@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "key": "placeholder_image",
+      "fileName": "placeholder_image.png",
+      "url": "https://your-domain.com/images/placeholder_image.png"
+    }
+  ]
+}
