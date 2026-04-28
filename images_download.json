@@ -2,9 +2,9 @@
   "version": 1,
   "images": [
     {
-      "key": "placeholder_image",
-      "fileName": "placeholder_image.png",
-      "url": "https://your-domain.com/images/placeholder_image.png"
+      "key": "test_image",
+      "fileName": "test_image.png",
+      "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/test_image.png"
     }
   ]
 }
