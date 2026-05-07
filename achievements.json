@@ -3,807 +3,807 @@
     "game": "Boom",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 50+ points",
     "image_file": "boom_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "boom_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 250+ points",
     "image_file": "boom_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "boom_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "boom_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Fizzle",
-    "description": "",
+    "description": "Score exactly 0 points",
     "image_file": "boom_level_one_fizzle.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Sparkler",
-    "description": "",
+    "description": "Score 1-15 points",
     "image_file": "boom_level_one_sparkler.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Party Popper",
-    "description": "",
+    "description": "Score 16-30 points",
     "image_file": "boom_level_one_party_popper.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Firecracker",
-    "description": "",
+    "description": "Score 31-60 points",
     "image_file": "boom_level_one_firecracker.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Cherry Bomb",
-    "description": "",
+    "description": "Score 61-75 points",
     "image_file": "boom_level_one_cherry_bomb.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Dynomite",
-    "description": "",
+    "description": "Score 76-99 points",
     "image_file": "boom_level_one_dynomite.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Centennial Celebration",
-    "description": "",
+    "description": "Score 100-110 points",
     "image_file": "boom_level_one_centennial_celebration.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Boom",
     "level": "Level One",
     "name": "Sonic Boom",
-    "description": "",
+    "description": "Score 111+ points",
     "image_file": "boom_level_one_sonic_boom.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Nifty Fifty",
-    "description": "",
+    "description": "Score 50-99 points",
     "image_file": "far_out_level_one_nifty_fifty.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Centurion",
-    "description": "",
+    "description": "Score 100-149 points",
     "image_file": "far_out_level_one_centurion.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Buck Fifty",
-    "description": "",
+    "description": "Score 150-199 points",
     "image_file": "far_out_level_one_buck_fifty.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Bicentennial",
-    "description": "",
+    "description": "Score 200-239 points",
     "image_file": "far_out_level_one_bicentennial.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Moon Doggie",
-    "description": "",
+    "description": "Score 240-274 points",
     "image_file": "far_out_level_one_moon_doggie.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "The Duke/McLeod",
-    "description": "",
+    "description": "Score 275+ points",
     "image_file": "far_out_level_one_the_duke_mcleod.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 100+ points with all rollers",
     "image_file": "far_out_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Hat Trick",
-    "description": "",
+    "description": "Minimum catch distance between 31 and 49 feet",
     "image_file": "far_out_level_one_hat_trick.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Golden Receiver",
-    "description": "",
+    "description": "Minimum catch distance between 51 and 69 feet",
     "image_file": "far_out_level_one_golden_receiver.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Platinum Receiver",
-    "description": "",
+    "description": "Minimum catch distance greater than 70 feet",
     "image_file": "far_out_level_one_platinum_receiver.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "The Flutie",
-    "description": "",
+    "description": "Sweet shot longer than all three catches",
     "image_file": "far_out_level_one_the_flutie.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Nifty Fifty UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_nifty_fifty_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Centurion UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_centurion_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Buck Fifty UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_buck_fifty_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Bicentennial UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_bicentennial_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Moon Doggie UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_moon_doggie_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Hat Trick UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_hat_trick_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Golden Receiver UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_golden_receiver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Platinum Receiver UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_platinum_receiver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "The Flutie UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "far_out_level_one_the_flutie_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "far_out_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 750+ points",
     "image_file": "far_out_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 1500+ points",
     "image_file": "far_out_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Mile High UP",
-    "description": "",
+    "description": "Score 1760+ points",
     "image_file": "far_out_level_one_mile_high_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 2500+ points",
     "image_file": "far_out_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 5000+ points",
     "image_file": "far_out_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Far Out",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "far_out_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "fireball_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "fireball_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "fireball_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 750+ points",
     "image_file": "fireball_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "fireball_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Dumpster Fire",
-    "description": "",
+    "description": "Score between 0 and 4 points",
     "image_file": "fireball_level_one_dumpster_fire.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Drop It Like It's Hot",
-    "description": "",
+    "description": "Score from 5 to 14",
     "image_file": "fireball_level_one_drop_it_like_it_s_hot.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Hot Head",
-    "description": "",
+    "description": "Score between 15 and 24 points",
     "image_file": "fireball_level_one_hot_head.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Fire Fighter",
-    "description": "",
+    "description": "Score between 25 and 34 points",
     "image_file": "fireball_level_one_fire_fighter.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Disco Inferno",
-    "description": "",
+    "description": "Score between 35 and 49 points",
     "image_file": "fireball_level_one_disco_inferno.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Flamethrower",
-    "description": "",
+    "description": "Score between 50 and 69 points",
     "image_file": "fireball_level_one_flamethrower.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Pyromaniac",
-    "description": "",
+    "description": "Score between 70 and 99 points",
     "image_file": "fireball_level_one_pyromaniac.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Fireball",
     "level": "Level One",
     "name": "Mr. Worldwide",
-    "description": "",
+    "description": "Score over 99 points",
     "image_file": "fireball_level_one_mr_worldwide.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Single Quad",
-    "description": "",
+    "description": "Clear exactly 1 quad",
     "image_file": "four_way_play_level_one_single_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Double Quad",
-    "description": "",
+    "description": "Clear exactly 2 quads",
     "image_file": "four_way_play_level_one_double_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Triple Quad",
-    "description": "",
+    "description": "Clear exactly 3 quads",
     "image_file": "four_way_play_level_one_triple_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Tetra Quad",
-    "description": "",
+    "description": "Clear 4 or more quads",
     "image_file": "four_way_play_level_one_tetra_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 16+ points with all rollers",
     "image_file": "four_way_play_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Single Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "four_way_play_level_one_single_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Double Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "four_way_play_level_one_double_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Triple Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "four_way_play_level_one_triple_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Tetra Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "four_way_play_level_one_tetra_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "four_way_play_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 50+ points",
     "image_file": "four_way_play_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "four_way_play_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "four_way_play_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "four_way_play_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "four_way_play_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level One",
     "name": "Level Up",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "four_way_play_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "four_way_play_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "four_way_play_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "four_way_play_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "four_way_play_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Four Way Play",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "four_way_play_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Human",
-    "description": "",
+    "description": "Human criteria score between 18 and 23",
     "image_file": "freestyle_level_one_excellent_human.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Dog",
-    "description": "",
+    "description": "Dog criteria score between 18 and 23",
     "image_file": "freestyle_level_one_excellent_dog.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Team",
-    "description": "",
+    "description": "Team criteria score between 18 and 23",
     "image_file": "freestyle_level_one_excellent_team.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Performance",
-    "description": "",
+    "description": "Combined performance judge scores between 70 and 79",
     "image_file": "freestyle_level_one_excellent_performance.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Human",
-    "description": "",
+    "description": "Human criteria score between 24 and 27",
     "image_file": "freestyle_level_one_superior_human.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Dog",
-    "description": "",
+    "description": "Dog criteria score between 24 and 27",
     "image_file": "freestyle_level_one_superior_dog.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Team",
-    "description": "",
+    "description": "Team criteria score between 24 and 27",
     "image_file": "freestyle_level_one_superior_team.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Performance",
-    "description": "",
+    "description": "Combined performance judge scores between 80 and 89",
     "image_file": "freestyle_level_one_superior_performance.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Human",
-    "description": "",
+    "description": "Human criteria score of 27.5+",
     "image_file": "freestyle_level_one_elite_human.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Dog",
-    "description": "",
+    "description": "Dog criteria score of 27.5+",
     "image_file": "freestyle_level_one_elite_dog.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Team",
-    "description": "",
+    "description": "Team criteria score of 27.5+",
     "image_file": "freestyle_level_one_elite_team.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Performance",
-    "description": "",
+    "description": "Combined performance judge scores of 90+",
     "image_file": "freestyle_level_one_elite_performance.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Double Shot Sweet Spot",
-    "description": "",
+    "description": "Hit both sweet spot attempts",
     "image_file": "freestyle_level_one_double_shot_sweet_spot.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Human UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_excellent_human_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Dog UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_excellent_dog_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Team UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_excellent_team_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Excellent Performance UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_excellent_performance_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Human UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_superior_human_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Dog UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_superior_dog_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Team UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_superior_team_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Superior Performance UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_superior_performance_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Human UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_elite_human_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Dog UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_elite_dog_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Team UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_elite_team_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Elite Performance UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_elite_performance_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Double Shot Sweet Spot Excellent UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_double_shot_sweet_spot_excellent_up.png",
     "downloaded_webp": false
   },
@@ -811,7 +811,7 @@
     "game": "Freestyle",
     "level": "Level One",
     "name": "Double Shot Sweet Spot Superior UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_double_shot_sweet_spot_superior_up.png",
     "downloaded_webp": false
   },
@@ -819,7 +819,7 @@
     "game": "Freestyle",
     "level": "Level One",
     "name": "Double Shot Sweet Spot Elite UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_one_double_shot_sweet_spot_elite_up.png",
     "downloaded_webp": false
   },
@@ -827,247 +827,247 @@
     "game": "Freestyle",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "freestyle_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "freestyle_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 1500+ points",
     "image_file": "freestyle_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 2000+ points",
     "image_file": "freestyle_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 2500+ points",
     "image_file": "freestyle_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Human",
-    "description": "",
+    "description": "Human criteria score between 18 and 23",
     "image_file": "freestyle_level_two_excellent_human.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Dog",
-    "description": "",
+    "description": "Dog criteria score between 18 and 23",
     "image_file": "freestyle_level_two_excellent_dog.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Team",
-    "description": "",
+    "description": "Team criteria score between 18 and 23",
     "image_file": "freestyle_level_two_excellent_team.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Performance",
-    "description": "",
+    "description": "Combined performance judge scores between 70 and 79",
     "image_file": "freestyle_level_two_excellent_performance.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Human",
-    "description": "",
+    "description": "Human criteria score between 24 and 27",
     "image_file": "freestyle_level_two_superior_human.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Dog",
-    "description": "",
+    "description": "Dog criteria score between 24 and 27",
     "image_file": "freestyle_level_two_superior_dog.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Team",
-    "description": "",
+    "description": "Team criteria score between 24 and 27",
     "image_file": "freestyle_level_two_superior_team.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Performance",
-    "description": "",
+    "description": "Combined performance judge scores between 80 and 89",
     "image_file": "freestyle_level_two_superior_performance.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Human",
-    "description": "",
+    "description": "Human criteria score of 27.5+",
     "image_file": "freestyle_level_two_elite_human.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Dog",
-    "description": "",
+    "description": "Dog criteria score of 27.5+",
     "image_file": "freestyle_level_two_elite_dog.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Team",
-    "description": "",
+    "description": "Team criteria score of 27.5+",
     "image_file": "freestyle_level_two_elite_team.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Performance",
-    "description": "",
+    "description": "Combined performance judge scores of 90+",
     "image_file": "freestyle_level_two_elite_performance.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Double Shot Sweet Spot",
-    "description": "",
+    "description": "Hit both sweet spot attempts",
     "image_file": "freestyle_level_two_double_shot_sweet_spot.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Human UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_excellent_human_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Dog UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_excellent_dog_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Team UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_excellent_team_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Excellent Performance UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_excellent_performance_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Human UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_superior_human_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Dog UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_superior_dog_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Team UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_superior_team_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Superior Performance UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_superior_performance_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Human UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_elite_human_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Dog UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_elite_dog_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Team UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_elite_team_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Elite Performance UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_elite_performance_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Double Shot Sweet Spot Excellent UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_double_shot_sweet_spot_excellent_up.png",
     "downloaded_webp": false
   },
@@ -1075,7 +1075,7 @@
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Double Shot Sweet Spot Superior UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_double_shot_sweet_spot_superior_up.png",
     "downloaded_webp": false
   },
@@ -1083,7 +1083,7 @@
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Double Shot Sweet Spot Elite UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "freestyle_level_two_double_shot_sweet_spot_elite_up.png",
     "downloaded_webp": false
   },
@@ -1091,807 +1091,807 @@
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "freestyle_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "freestyle_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 1500+ points",
     "image_file": "freestyle_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 2000+ points",
     "image_file": "freestyle_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Freestyle",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 2500+ points",
     "image_file": "freestyle_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Nifty Fifty",
-    "description": "",
+    "description": "Score 50-99 points",
     "image_file": "frizgility_level_one_nifty_fifty.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Centurion",
-    "description": "",
+    "description": "Score 100-124 points",
     "image_file": "frizgility_level_one_centurion.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Frizgility Freak",
-    "description": "",
+    "description": "Score 125+ points",
     "image_file": "frizgility_level_one_frizgility_freak.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Speedy Feet",
-    "description": "",
+    "description": "Complete the course with speedy feet bonus",
     "image_file": "frizgility_level_one_speedy_feet.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "High Five",
-    "description": "",
+    "description": "Complete course with high five bonus",
     "image_file": "frizgility_level_one_high_five.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Nifty Fifty UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "frizgility_level_one_nifty_fifty_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Centurion UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "frizgility_level_one_centurion_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Frizgility Freak UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "frizgility_level_one_frizgility_freak_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Speedy Feet UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "frizgility_level_one_speedy_feet_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "High Five UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "frizgility_level_one_high_five_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "frizgility_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "frizgility_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 600+ points",
     "image_file": "frizgility_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "frizgility_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 2000+ points",
     "image_file": "frizgility_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "frizgility_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "frizgility_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 600+ points",
     "image_file": "frizgility_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "frizgility_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 1600+ points",
     "image_file": "frizgility_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Frizgility",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 2400+ points",
     "image_file": "frizgility_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Single Quad",
-    "description": "",
+    "description": "Clear exactly 1 quad",
     "image_file": "funkey_level_one_single_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Double Quad",
-    "description": "",
+    "description": "Clear exactly 2 quads",
     "image_file": "funkey_level_one_double_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Triple Quad",
-    "description": "",
+    "description": "Clear 3 or more quads",
     "image_file": "funkey_level_one_triple_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Daft Funk",
-    "description": "",
+    "description": "Score 35+ points",
     "image_file": "funkey_level_one_daft_funk.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Funkadelic",
-    "description": "",
+    "description": "Score 20-34 points",
     "image_file": "funkey_level_one_funkadelic.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 25+ points with all rollers",
     "image_file": "funkey_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Single Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "funkey_level_one_single_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Double Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "funkey_level_one_double_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Triple Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "funkey_level_one_triple_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Daft Funk UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "funkey_level_one_daft_funk_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Funkadelic UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "funkey_level_one_funkadelic_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "funkey_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 50+ points",
     "image_file": "funkey_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "funkey_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "funkey_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 350+ points",
     "image_file": "funkey_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "funkey_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "funkey_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 75+ points",
     "image_file": "funkey_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 150+ points",
     "image_file": "funkey_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 250+ points",
     "image_file": "funkey_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "funkey_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "FunKey",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 700+ points",
     "image_file": "funkey_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "greedy_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "greedy_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "greedy_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "greedy_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "greedy_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Scrooged",
-    "description": "",
+    "description": "Score exactly 0 points",
     "image_file": "greedy_level_one_scrooged.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Tightwad",
-    "description": "",
+    "description": "Score 1-10 points",
     "image_file": "greedy_level_one_tightwad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Penny Pincher",
-    "description": "",
+    "description": "Score 14-24 points",
     "image_file": "greedy_level_one_penny_pincher.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Yuppy",
-    "description": "",
+    "description": "Score 25-42 points",
     "image_file": "greedy_level_one_yuppy.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Filthy Rich",
-    "description": "",
+    "description": "Score 43-60 points",
     "image_file": "greedy_level_one_filthy_rich.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Greedy",
     "level": "Level One",
     "name": "Fat Cat",
-    "description": "",
+    "description": "Score 61+ points",
     "image_file": "greedy_level_one_fat_cat.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Single Quad",
-    "description": "",
+    "description": "Clear exactly 1 quad",
     "image_file": "pairs_four_way_play_level_one_single_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Double Quad",
-    "description": "",
+    "description": "Clear exactly 2 quads",
     "image_file": "pairs_four_way_play_level_one_double_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Triple Quad",
-    "description": "",
+    "description": "Clear exactly 3 quads",
     "image_file": "pairs_four_way_play_level_one_triple_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Tetra Quad",
-    "description": "",
+    "description": "Clear 4 or more quads",
     "image_file": "pairs_four_way_play_level_one_tetra_quad.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 16+ points with all rollers",
     "image_file": "pairs_four_way_play_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Single Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_four_way_play_level_one_single_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Double Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_four_way_play_level_one_double_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Triple Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_four_way_play_level_one_triple_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Tetra Quad UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_four_way_play_level_one_tetra_quad_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_four_way_play_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 50+ points",
     "image_file": "pairs_four_way_play_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "pairs_four_way_play_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "pairs_four_way_play_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "pairs_four_way_play_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "pairs_four_way_play_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Four Way Play",
     "level": "Level One",
     "name": "Level Up",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "pairs_four_way_play_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Low Five",
-    "description": "",
+    "description": "Score 25-54 points",
     "image_file": "pairs_throw_n_go_level_one_low_five.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Sharpshooter",
-    "description": "",
+    "description": "4 or more bonus zone catches",
     "image_file": "pairs_throw_n_go_level_one_sharpshooter.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Golden Receiver",
-    "description": "",
+    "description": "4+ catches with no misses",
     "image_file": "pairs_throw_n_go_level_one_golden_receiver.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "High Five",
-    "description": "",
+    "description": "Score 55+ points",
     "image_file": "pairs_throw_n_go_level_one_high_five.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 12-19 points with all rollers",
     "image_file": "pairs_throw_n_go_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Super Highroller",
-    "description": "",
+    "description": "Score 20+ points with all rollers",
     "image_file": "pairs_throw_n_go_level_one_super_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Low Five UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_throw_n_go_level_one_low_five_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Sharpshooter UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_throw_n_go_level_one_sharpshooter_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Golden Receiver UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_throw_n_go_level_one_golden_receiver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "High Five UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_throw_n_go_level_one_high_five_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_throw_n_go_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Super Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "pairs_throw_n_go_level_one_super_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "pairs_throw_n_go_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "pairs_throw_n_go_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "pairs_throw_n_go_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "pairs_throw_n_go_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "pairs_throw_n_go_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Pairs Throw N Go",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "pairs_throw_n_go_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "seven_up_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 250+ points",
     "image_file": "seven_up_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 450+ points",
     "image_file": "seven_up_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 800+ points",
     "image_file": "seven_up_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1200+ points",
     "image_file": "seven_up_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Double Up",
-    "description": "",
+    "description": "Complete 14 or more jumps",
     "image_file": "seven_up_level_one_double_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Golden Receiver",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "seven_up_level_one_golden_receiver.png",
     "downloaded_webp": true
   },
@@ -1899,111 +1899,111 @@
     "game": "Seven Up",
     "level": "Level One",
     "name": "High Roller",
-    "description": "",
+    "description": "Score 50+ points with all rollers",
     "image_file": "seven_up_level_one_high_roller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Jump Junkie",
-    "description": "",
+    "description": "Complete 10-13 jumps",
     "image_file": "seven_up_level_one_jump_junkie.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Seven Up",
     "level": "Level One",
     "name": "Speedy Feet",
-    "description": "",
+    "description": "5+ catches with sweet spot and 40+ seconds remaining",
     "image_file": "seven_up_level_one_speedy_feet.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 35+ points with all rollers",
     "image_file": "spaced_out_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Nifty Fifty",
-    "description": "",
+    "description": "Score 50-99 points",
     "image_file": "spaced_out_level_one_nifty_fifty.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Centurion",
-    "description": "",
+    "description": "Score 100-149 points",
     "image_file": "spaced_out_level_one_centurion.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Space Invader",
-    "description": "",
+    "description": "Score 150+ points",
     "image_file": "spaced_out_level_one_space_invader.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Golden Receiver",
-    "description": "",
+    "description": "Score with no misses",
     "image_file": "spaced_out_level_one_golden_receiver.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Space Cadet",
-    "description": "",
+    "description": "Achieve Space Cadet status",
     "image_file": "spaced_out_level_one_space_cadet.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "spaced_out_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Nifty Fifty UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "spaced_out_level_one_nifty_fifty_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Centurion UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "spaced_out_level_one_centurion_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Space Invader UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "spaced_out_level_one_space_invader_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Golden Receiver UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "spaced_out_level_one_golden_receiver_up.png",
     "downloaded_webp": false
   },
@@ -2011,351 +2011,351 @@
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Space Cadet UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "spaced_out_level_one_space_cadet_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "spaced_out_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "spaced_out_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 600+ points",
     "image_file": "spaced_out_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "spaced_out_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 2000+ points",
     "image_file": "spaced_out_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "spaced_out_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "spaced_out_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 600+ points",
     "image_file": "spaced_out_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "spaced_out_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 1600+ points",
     "image_file": "spaced_out_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Spaced Out",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 2400+ points",
     "image_file": "spaced_out_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Low Five",
-    "description": "",
+    "description": "Score 25-54 points",
     "image_file": "throw_n_go_level_one_low_five.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Sharpshooter",
-    "description": "",
+    "description": "4 or more bonus zone catches",
     "image_file": "throw_n_go_level_one_sharpshooter.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Golden Receiver",
-    "description": "",
+    "description": "4+ catches with no misses",
     "image_file": "throw_n_go_level_one_golden_receiver.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "High Five",
-    "description": "",
+    "description": "Score 55+ points",
     "image_file": "throw_n_go_level_one_high_five.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "Score 12-19 points with all rollers",
     "image_file": "throw_n_go_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Super Highroller",
-    "description": "",
+    "description": "Score 20+ points with all rollers",
     "image_file": "throw_n_go_level_one_super_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Low Five UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "throw_n_go_level_one_low_five_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Sharpshooter UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "throw_n_go_level_one_sharpshooter_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Golden Receiver UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "throw_n_go_level_one_golden_receiver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "High Five UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "throw_n_go_level_one_high_five_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "throw_n_go_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Super Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "throw_n_go_level_one_super_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "throw_n_go_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 200+ points",
     "image_file": "throw_n_go_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "throw_n_go_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "throw_n_go_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "throw_n_go_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "throw_n_go_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 150+ points",
     "image_file": "throw_n_go_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "throw_n_go_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "throw_n_go_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 800+ points",
     "image_file": "throw_n_go_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Throw N Go",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1250+ points",
     "image_file": "throw_n_go_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Highroller",
-    "description": "",
+    "description": "All rollers with 3+ zone catches and time remaining",
     "image_file": "time_warp_level_one_highroller.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Tardis",
-    "description": "",
+    "description": "Score 16-44 points",
     "image_file": "time_warp_level_one_tardis.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Wylde Stallyns",
-    "description": "",
+    "description": "Score 45-54 points",
     "image_file": "time_warp_level_one_wylde_stallyns.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "McFly",
-    "description": "",
+    "description": "Score 55-74 points",
     "image_file": "time_warp_level_one_mcfly.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Terminator",
-    "description": "",
+    "description": "Score 75+ points",
     "image_file": "time_warp_level_one_terminator.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Rolling Thunder",
-    "description": "",
+    "description": "Score 55+ points with all rollers",
     "image_file": "time_warp_level_one_rolling_thunder.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Golden Receiver",
-    "description": "",
+    "description": "Score with no misses",
     "image_file": "time_warp_level_one_golden_receiver.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Highroller UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_highroller_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Time Turner",
-    "description": "",
+    "description": "Score 82-87 points",
     "image_file": "time_warp_level_one_time_turner.png",
     "downloaded_webp": false
   },
@@ -2363,151 +2363,151 @@
     "game": "Time Warp",
     "level": "Level One",
     "name": "Flux Capacitor",
-    "description": "",
+    "description": "Score 88+ points",
     "image_file": "time_warp_level_one_flux_capacitor.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Tardis UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_tardis_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Wlyde Stallyns UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_wlyde_stallyns_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "McFly UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_mcfly_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Terminator UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_terminator_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Rolling Thunder UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_rolling_thunder_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Golden Receiver UP",
-    "description": "",
+    "description": "Earn the required achievement",
     "image_file": "time_warp_level_one_golden_receiver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 150+ points",
     "image_file": "time_warp_level_one_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 300+ points",
     "image_file": "time_warp_level_one_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 500+ points",
     "image_file": "time_warp_level_one_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 750+ points",
     "image_file": "time_warp_level_one_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1200+ points",
     "image_file": "time_warp_level_one_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level One",
     "name": "Level UP",
-    "description": "",
+    "description": "Earn the 'Gold UP' achievement",
     "image_file": "time_warp_level_one_level_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level Two",
     "name": "Bronze UP",
-    "description": "",
+    "description": "Score 100+ points",
     "image_file": "time_warp_level_two_bronze_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level Two",
     "name": "Silver UP",
-    "description": "",
+    "description": "Score 250+ points",
     "image_file": "time_warp_level_two_silver_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level Two",
     "name": "Gold UP",
-    "description": "",
+    "description": "Score 400+ points",
     "image_file": "time_warp_level_two_gold_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level Two",
     "name": "Platinum UP",
-    "description": "",
+    "description": "Score 750+ points",
     "image_file": "time_warp_level_two_platinum_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "Time Warp",
     "level": "Level Two",
     "name": "Unobtanium UP",
-    "description": "",
+    "description": "Score 1000+ points",
     "image_file": "time_warp_level_two_unobtanium_up.png",
-    "downloaded_webp": true
+    "downloaded_webp": false
   },
   {
     "game": "General ( 17 )",
     "level": "",
     "name": "Invited UPDF 2019",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_invited_updf_2019.png",
     "downloaded_webp": true
   },
@@ -2515,7 +2515,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Spring Participant",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_spring_participant.png",
     "downloaded_webp": true
   },
@@ -2523,7 +2523,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Spring Four Score",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_spring_four_score.png",
     "downloaded_webp": true
   },
@@ -2531,7 +2531,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Spring Upper Crust",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_spring_upper_crust.png",
     "downloaded_webp": true
   },
@@ -2539,7 +2539,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Spring Club Sandwich",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_spring_club_sandwich.png",
     "downloaded_webp": true
   },
@@ -2547,7 +2547,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Summer Participant",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_summer_participant.png",
     "downloaded_webp": true
   },
@@ -2555,7 +2555,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Summer Four Score",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_summer_four_score.png",
     "downloaded_webp": true
   },
@@ -2563,7 +2563,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Summer Upper Crust",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_summer_upper_crust.png",
     "downloaded_webp": true
   },
@@ -2571,7 +2571,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Summer Club Sandwich",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_summer_club_sandwich.png",
     "downloaded_webp": true
   },
@@ -2579,7 +2579,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Fall Participant",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_fall_participant.png",
     "downloaded_webp": true
   },
@@ -2587,7 +2587,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Fall Four Score",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_fall_four_score.png",
     "downloaded_webp": true
   },
@@ -2595,7 +2595,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Fall Upper Crust",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_fall_upper_crust.png",
     "downloaded_webp": true
   },
@@ -2603,7 +2603,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Fall Club Sandwich",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_fall_club_sandwich.png",
     "downloaded_webp": true
   },
@@ -2611,7 +2611,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Participant",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_participant.png",
     "downloaded_webp": true
   },
@@ -2619,7 +2619,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Four Score",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_four_score.png",
     "downloaded_webp": true
   },
@@ -2627,7 +2627,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Upper Crust",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_upper_crust.png",
     "downloaded_webp": true
   },
@@ -2635,7 +2635,7 @@
     "game": "General ( 17 )",
     "level": "",
     "name": "Bite Club 2022 Club Sandwich",
-    "description": "",
+    "description": "Earned 736 time s",
     "image_file": "general_17_bite_club_2022_club_sandwich.png",
     "downloaded_webp": true
   }
