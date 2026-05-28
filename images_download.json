@@ -6,21 +6,6 @@
       "key": "test_image",
       "fileName": "test_image.png",
       "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/test_image.png"
-    },
-    {
-      "key": "crossover_crown_2026",
-      "fileName": "crossover_crown_2026.png",
-      "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/crossover_crown_2026.png"
-    },
-    {
-      "key": "boom-level-one",
-      "fileName": "boom-level-one.png",
-      "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/boom-level-one.png"
-    },
-    {
-      "key": "boom-level-one-bronze-up",
-      "fileName": "boom-level-one-bronze-up.png",
-      "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/boom-level-one-bronze-up.png"
     }
   ]
 }
