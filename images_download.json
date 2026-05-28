@@ -16,6 +16,11 @@
       "key": "boom-level-one",
       "fileName": "boom-level-one.png",
       "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/boom-level-one.png"
+    },
+    {
+      "key": "boom-level-one-bronze-up",
+      "fileName": "boom-level-one-bronze-up.png",
+      "url": "https://raw.githubusercontent.com/discdogtracking/my-json-data-UPDOG/main/images/boom-level-one-bronze-up.png"
     }
   ]
 }
