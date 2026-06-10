@@ -207,14 +207,14 @@
     },
     "Fireball": {
       "Level One": {
-        "qualPoints": 80,
-        "qualPointsYouth": 40.0
+        "qualPoints": 90,
+        "qualPointsYouth": 45.0
       }
     },
     "Four Way Play": {
       "Level One": {
-        "qualPoints": 85,
-        "qualPointsYouth": 42.5
+        "qualPoints": 90,
+        "qualPointsYouth": 45.0
       },
       "Level Two": {
         "qualPoints": 100,
@@ -223,12 +223,12 @@
     },
     "Freestyle": {
       "Level One": {
-        "qualPoints": 250,
-        "qualPointsYouth": 125.0
+        "qualPoints": 300,
+        "qualPointsYouth": 150.0
       },
       "Level Two": {
-        "qualPoints": 250,
-        "qualPointsYouth": 125.0
+        "qualPoints": 300,
+        "qualPointsYouth": 150.0
       }
     },
     "Frizgility": {
@@ -243,18 +243,18 @@
     },
     "FunKey": {
       "Level One": {
-        "qualPoints": 95,
-        "qualPointsYouth": 47.5
+        "qualPoints": 100,
+        "qualPointsYouth": 50.0
       },
       "Level Two": {
-        "qualPoints": 120,
-        "qualPointsYouth": 60.0
+        "qualPoints": 130,
+        "qualPointsYouth": 65.0
       }
     },
     "Greedy": {
       "Level One": {
-        "qualPoints": 90,
-        "qualPointsYouth": 45.0
+        "qualPoints": 110,
+        "qualPointsYouth": 55.0
       }
     },
     "Seven Up": {
@@ -265,8 +265,8 @@
     },
     "Spaced Out": {
       "Level One": {
-        "qualPoints": 175,
-        "qualPointsYouth": 87.5
+        "qualPoints": 180,
+        "qualPointsYouth": 90.0
       },
       "Level Two": {
         "qualPoints": 265,
@@ -275,18 +275,18 @@
     },
     "Throw N Go": {
       "Level One": {
-        "qualPoints": 120,
-        "qualPointsYouth": 60.0
-      },
-      "Level Two": {
         "qualPoints": 140,
         "qualPointsYouth": 70.0
+      },
+      "Level Two": {
+        "qualPoints": 160,
+        "qualPointsYouth": 80.0
       }
     },
     "Time Warp": {
       "Level One": {
-        "qualPoints": 130,
-        "qualPointsYouth": 65.0
+        "qualPoints": 140,
+        "qualPointsYouth": 70.0
       },
       "Level Two": {
         "qualPoints": 110,
@@ -325,7 +325,7 @@
   "updifYears": [
     {
       "year": 2026,
-      "official": true,
+      "official": false,
       "visible": false,
       "displayName": "UPDIF 2026",
       "seasonalInfo": {
@@ -335,7 +335,7 @@
     },
     {
       "year": 2027,
-      "official": false,
+      "official": true,
       "visible": true,
       "displayName": "UPDIF 2027",
       "seasonalInfo": {
