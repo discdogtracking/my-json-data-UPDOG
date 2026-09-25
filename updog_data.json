@@ -330,7 +330,8 @@
       "displayName": "UPDIF 2026",
       "seasonalInfo": {
         "start": "2025-01-01",
-        "end": "2025-12-31"
+        "end": "2025-12-31",
+      "showRankings": false
       }
     },
     {
@@ -340,7 +341,8 @@
       "displayName": "UPDIF 2027",
       "seasonalInfo": {
         "start": "2026-01-01",
-        "end": "2026-12-31"
+        "end": "2026-12-31",
+      "showRankings": true
       }
     }
   ]
