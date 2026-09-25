@@ -328,7 +328,6 @@
       "official": false,
       "visible": false,
       "displayName": "UPDIF 2026",
-      "showRankings": false
       "seasonalInfo": {
         "start": "2025-01-01",
         "end": "2025-12-31"
@@ -339,7 +338,6 @@
       "official": true,
       "visible": true,
       "displayName": "UPDIF 2027",
-      "showRankings": true
       "seasonalInfo": {
         "start": "2026-01-01",
         "end": "2026-12-31"
